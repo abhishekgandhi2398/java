@@ -27,6 +27,8 @@ public class OrangeHRMLoginTest {
 		
 		
 		//chrome.findElement(By.id("welcome")).click();
+		//chrome.findElement(By.id("welcome")).click();
+		//chrome.findElement(By.id("welcome")).click();
 		
 		//chrome.findElement(By.id("aboutDisplayLink")).click();
 		
